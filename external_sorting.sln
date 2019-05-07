@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge", "merge\merge.vcxproj", "{033547BE-81A6-4479-A8A1-AF5DD8A64B54}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "split_merge", "split_merge\split_merge.vcxproj", "{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{033547BE-81A6-4479-A8A1-AF5DD8A64B54}.Release|x64.Build.0 = Release|x64
 		{033547BE-81A6-4479-A8A1-AF5DD8A64B54}.Release|x86.ActiveCfg = Release|Win32
 		{033547BE-81A6-4479-A8A1-AF5DD8A64B54}.Release|x86.Build.0 = Release|Win32
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Debug|x64.ActiveCfg = Debug|x64
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Debug|x64.Build.0 = Debug|x64
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Debug|x86.Build.0 = Debug|Win32
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Release|x64.ActiveCfg = Release|x64
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Release|x64.Build.0 = Release|x64
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Release|x86.ActiveCfg = Release|Win32
+		{0DD81F1D-9B17-4216-AB4B-DA58EF040F0A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
